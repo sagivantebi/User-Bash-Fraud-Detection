@@ -6,9 +6,7 @@
 This project addresses the detection of masqueraders (imposters) based on bash command history segments from 40 users, each having 15,000 commands. The commands are segmented into groups of 100, resulting in 150 segments per user. The challenge is to identify the segments entered by a masquerader based on the patterns observed in the user's bash history.
 
 
-![frawd-removebg-preview (1)]()
-
-<img src="https://github.com/user-attachments/assets/955ceb0e-940d-4f30-8d3f-63b954d91c4f" alt="frawd" width="100"/> 
+<img src="https://github.com/user-attachments/assets/955ceb0e-940d-4f30-8d3f-63b954d91c4f" alt="frawd" width="250"/> 
 
 
 
